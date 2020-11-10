@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_quran"
+        android:icon="@drawable/ic_quran"
+        android:title="@string/title_quran" />
+
+    <item
+        android:id="@+id/navigation_tasbeh"
+        android:icon="@drawable/ic_tasbeh"
+        android:title="@string/title_tasbeh" />
+
+</menu>
